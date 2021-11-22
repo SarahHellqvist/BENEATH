@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bolts
+  - Boundary
+  - Obstacle
+  - Spawner
+  - Pickup
+  - UiController
+  - ShootingEnemy
+  - Hazard
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Hazards
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2889304481
+    locked: 0
+  - name: Middleground
+    uniqueID: 2861218595
+    locked: 0
+  - name: Player
+    uniqueID: 1996334551
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
